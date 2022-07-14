@@ -29,7 +29,7 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
-git clone https://github.com/luccawill/saaccount
+git clone https://github.com/MyoKo777/Saaccounts-token.pickle-Termux
 ```
 ```
 cd /sdcard/MyTermux/saaccount
