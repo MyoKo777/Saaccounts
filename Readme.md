@@ -29,10 +29,10 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
-git clone https://github.com/MyoKo777/Saaccounts-token.pickle-Termux
+git clone https://github.com/MyoKo777/Saaccounts
 ```
 ```
-cd /sdcard/MyTermux/saaccount
+cd /sdcard/MyTermux/Saaccount
 ```
 ```
 pip3 install -r requirements.txt
